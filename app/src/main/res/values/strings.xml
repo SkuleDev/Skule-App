@@ -2,4 +2,7 @@
     <string name="app_name">Skule-App</string>
     <string name="action_settings">Settings</string>
     <string name="title_activity_events">Events</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title_activity_clubs_list">ClubsList</string>
+    <string name="title_activity_club">ClubActivity</string>
 </resources>

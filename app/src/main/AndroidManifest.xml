@@ -21,7 +21,19 @@
         <activity
             android:name=".EventsActivity"
             android:label="@string/title_activity_events"
-            android:theme="@style/AppTheme.NoActionBar"/>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".HomeActivity"
+            android:label="@string/title_activity_home"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ClubsListActivity"
+            android:label="@string/title_activity_clubs_list"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".ClubActivity"
+            android:label="@string/title_activity_club"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
 </manifest>
