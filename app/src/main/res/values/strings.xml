@@ -5,4 +5,5 @@
     <string name="title_activity_home">Home</string>
     <string name="title_activity_clubs_list">ClubsList</string>
     <string name="title_activity_club">ClubActivity</string>
+    <string name="events_toolbar">Events</string>
 </resources>
